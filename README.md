@@ -1,1 +1,2 @@
-My git actions from idea to production. 
+# mygitactions
+Git actions to automate my workflow from idea to production.
